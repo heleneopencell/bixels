@@ -7,15 +7,15 @@ In standard bio-labs you would use a transilluminator or platereader to visualiz
 
 More info: www.bixels.io  
 
-## 1) Electronic parts
-## 2) Cardboard box
-## 3) Software
-## 4) Timelapse with webcam
-## 5) GFP - Green fluorescent proteins
+### 1)Electronic parts
+### 2)[Cardboard box](https://github.com/heleneopencell/bixels#2-cardboard-box)
+### 3)Software
+### 4)Timelapse with webcam
+### 5)GFP - Green fluorescent proteins
 
-### 1) Electronic parts  
+### 1)Electronic parts  
 
-### 2) [Cardboard box](https://github.com/heleneopencell/bixels#2-cardboard-box)
+### 2)Cardboard box
 Let's get started by creating the cover for bixels which is a simple cardboard box. I have chosen cardboard because it allows you to quickly iterate and customize the design without the need of any equipment such as a 3D printer. 
 
 You can either lasercut your parts or print the PDF on a A4 sheet and cut it out by hand. Use a non see-through cardboard! Test it out beforehand and hold it against the light. No light should be able to get through. I use [Mountboard from Daler Rowney](https://www.amazon.co.uk/Daler-Rowney-Black-Graduate-Mountboard/dp/B00GKCF0VG/ref=sr_1_4?keywords=mount+board+black&qid=1571151582&sr=8-4) because it allows you to make neat hinges. You can also add a layer of black thin cardboard on each side if your cardboard let's any light through, use sprayglue for laminating it on top.
@@ -43,8 +43,8 @@ Glue the orange filter from on top of the cut-out. We have made two designs for 
 The PCR matrix is designed to fit with PCR strips which will place each PCR tube right on top of an LED. Fill the matrix when you are ready to make your experiment to ensure they are sterile.
 It is a simple matrix which can be connected without the use of any glue. [Watch how here](https://vimeo.com/259033478)
 
-### 3) Software
-### 4) Timelapse with webcam
-### 5) GFP - Green fluorescent proteins
+### 3)Software
+### 4)Timelapse with webcam
+### 5)GFP - Green fluorescent proteins
 
 
