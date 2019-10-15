@@ -1,2 +1,4 @@
 # bixels.box
-Box for Bixels; Simple DIY transilluminator / plate-reader to illuminate fluorescent proteins. www.bixels.io
+This tutorial will cover how to build a box / cover for for Bixels;  
+Bixels is a simple DIY transilluminator / plate-reader to illuminate fluorescent proteins.  
+More info: www.bixels.io
