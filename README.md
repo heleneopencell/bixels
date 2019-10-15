@@ -43,7 +43,8 @@ Now let’s **fold the filter box**: Glue the orange filter from on top of the c
 
 Let's **fold the PCR matrix:**  
 The PCR matrix is designed to fit with PCR strips which will place each PCR tube right on top of an LED. Fill the matrix when you are ready to make your experiment to ensure they are sterile.
-It is a simple matrix which can be connected without the use of any glue. [Watch how here](https://vimeo.com/259033478)
+It is a simple matrix which can be connected without the use of any glue.  
+[Watch how here](https://vimeo.com/259033478)
 
 ### 3)Software
 ### 4)Timelapse with webcam
