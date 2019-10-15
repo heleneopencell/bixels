@@ -18,13 +18,13 @@ Let's get started by creating the cover for bixels which is a simple cardboard b
 
 You can either lasercut your parts or print the PDF on a A4 sheet and cut it out by hand. Use a non see-through cardboard! Test it out beforehand and hold it against the light. No light should be able to get through. I use [Mountboard from Daler Rowney](https://www.amazon.co.uk/Daler-Rowney-Black-Graduate-Mountboard/dp/B00GKCF0VG/ref=sr_1_4?keywords=mount+board+black&qid=1571151582&sr=8-4) because it allows you to make neat hinges. You can also add a layer of black thin cardboard on each side if your cardboard let's any light through, use sprayglue for laminating it on top.
  
-######For the lasercut  
+###### For the lasercut  
 Download the file here. The red lines are for engraving the cardboard to easier fold it. The black lines are cuts. We suggest to test your two settings in a small corner beforehand.
  
-######For cutting it by hand  
+###### For cutting it by hand  
 Download the file here. Print it on an A4 paper and mount it on a thicker cardboard. You don’t want anything moving. We suggest to use (removable) spray-mount for it. To make the holes for the PCR matrix use a hole puncher. It is much more painful than laser-cutting but possible.
  
-######Folding the boxes  
+###### Folding the boxes  
 Bixels is made of 3 parts. The main box for the electronics, the filterbox to turn it into a transilluminator and our PCR matrix to hold your PCR strips in place.
  
 1) First let's fold the main box: [You can watch how to here.](https://vimeo.com/236661949) The newest version doesn't need any double sided tape and we simplified it to one inner box which will cover your electronics and will function as a platform for your led-display.
