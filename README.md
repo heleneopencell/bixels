@@ -27,10 +27,10 @@ Download the file here. Print it on an A4 paper and mount it on a thicker cardbo
 Folding the boxes
 Bixels is made of 3 parts. The main box for the electronics, the filterbox to turn it into a transilluminator and our PCR matrix to hold your PCR strips in place.
  
-First let's fold the main box:
-[![Video main box]({image-url})]({https://vimeo.com/236661949l} "How to fold the mainbox")
+First let's fold the main box: [You can watch how to here.](https://vimeo.com/236661949) The newest version doesn't need any double sided tape and we simplified it to one inner box which will cover your electronics and will function as a platform for your led-display.
  
-Now let’s fold the filter box:
-Glue the orange filter first - that makes it easier.
-EMBED https://vimeo.com/236662100
+Now let’s fold the filter box: [You can watch how to here.](https://vimeo.com/236662100)
+Glue the orange filter from on top of the cut-out. We have made two designs  
+1) with a smaller round cut-out: The benefit here is that less natural light gets in the box which improves the performance. This is particular useful if are planning to use it with a camera. Which I will explain in more detail in [chapter 4](chapter 4).  
+2) and with a larger cut-out: This works better if you want to turn it into a bio-display. You can do fun things such as building your own bio-gameboy with it. Downside is that it works best in the dark because it lets more natural light in. You can also improve this by using 2 blue flights on top of each other.
 
