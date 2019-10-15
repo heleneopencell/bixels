@@ -1,17 +1,29 @@
 # bixels
-This tutorial will cover how to build Bixels;  
  
-This document is about visualizing fluorescent proteins, which glow with a different colour when one colour of light hits them. They are widely used in biology as a research aid. 
+This document will show you how to visualize fluorescent proteins. They are widely used in biology as a research aid. In standard bio-labs you would use a transilluminator or platereader to visualize them which are wildly expensive. We will make a simple and very low-cost version of this which can be also used as a 8x8 biodisplay or as a STEAM education kit to get kids excited about biotechnology.  
 
-In standard bio-labs you would use a transilluminator or platereader to visualize them which are wildly expensive. We will make a simple and very low-cost version of this which can be also used as a 8x8 biodisplay or as a STEAM education kit to get kids excited about biotechnology.
-
-More info: www.bixels.io  
+[More info](https://www.bixels.io/tutorials)
 
 ### 1)Electronic parts
 ### 2)[Cardboard box](https://github.com/heleneopencell/bixels#2cardboard-box-1)
 ### 3)Software
 ### 4)Timelapse with webcam
 ### 5)GFP - Green fluorescent proteins
+_____________________
+
+##### Overview
+A fluorescent protein is a type of fluorescent chemical compound (fluorophore) that can re-emit light upon light excitation. If one colour of light lands on a fluorescent protein, the protein will glow with a different colour.
+
+The story of the extraction, isolation and study of **green fluorescent protein (GFP)** is fascinating. It is also a hugely significant scientific discovery for which the 2008 Nobel Prize in Chemistry was awarded.
+
+We will use build a cardboard box to block out any unwanted light and use a set of optical filters. The filters allow the correct light to reach the fluorescent proteins from the LEDs and for the correct light to reach your eye from the fluorescent proteins. The diffuser simply diffuses the light evenly which is not necessary but useful if you want to use Bixels for something else than PCR tubes, for example electrophoresis gels. 
+
+The RGB LED matrix we are using is capable of generating the required light to stimulate fluorescence in many types of fluorescent proteins. The filters described in this tutorial are only suitable for GFP but you can exchange them. [You can learn more here](https://www.biotek.com/assets/tech_resources/Filter%20Combinations.pdf) which filters to use for which fluorescent protein.
+
+The software and app allow you to control each single led and it's individual light color from your phone. 
+
+Proteins can take up to a few hours to get expressed. We therefore added a section how to add a webcam to Bixels which takes every few minutes a picture which will create a timelapse streamed to the web. 
+
 _____________________
 
 ### 1)Electronic parts  
@@ -49,5 +61,8 @@ It is a simple matrix which can be connected without the use of any glue.
 ### 3)Software
 ### 4)Timelapse with webcam
 ### 5)GFP - Green fluorescent proteins
+What is a Fluorescent Protein?
+
+
 
 
