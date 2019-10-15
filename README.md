@@ -30,11 +30,16 @@ Download the file here. Print it on an A4 paper and mount it on a thicker cardbo
 ###### Folding the boxes
 Bixels is made of 3 parts. The main box for the electronics, the filterbox to turn it into a transilluminator and our PCR matrix to hold your PCR strips in place.
  
-First let's **fold the main box** for the electronics: [You can watch how to here.](https://vimeo.com/259026890) The inner box will be used as a platform for your led-display.
+First let's **fold the main box** for the electronics: The inner box will be used as a platform for your led-display.  
+[You can watch how to here.](https://vimeo.com/259026890) 
  
 Now let’s **fold the filter box**: Glue the orange filter from on top of the cut-out. We have made two designs for this:  
-**Smaller round cut-out:** The benefit here is that less natural light gets in the box which improves the performance. This is particular useful if are planning to use it with a camera. Which I will explain in more detail in [chapter 4](chapter 4).  [Watch video here](https://vimeo.com/236662100)  
-**Larger cut-out:** This works better if you want to turn it into a bio-display. You can do fun things such as building your own bio-gameboy with it. Downside is that it works best in the dark because it lets more natural light in. You can also improve this by using 2 blue flights on top of each other. [Watch video here](https://vimeo.com/259029617)
+
+**Smaller round cut-out:** The benefit here is that less natural light gets in the box which improves the performance. This is particular useful if are planning to use it with a camera. Which I will explain in more detail in [chapter 4](chapter 4).  
+[Watch video here](https://vimeo.com/236662100) 
+
+**Larger cut-out:** This works better if you want to turn it into a bio-display. You can do fun things such as building your own bio-gameboy with it. Downside is that it works best in the dark because it lets more natural light in. You can also improve this by using 2 blue flights on top of each other.  
+[Watch video here](https://vimeo.com/259029617)
 
 Let's **fold the PCR matrix:**  
 The PCR matrix is designed to fit with PCR strips which will place each PCR tube right on top of an LED. Fill the matrix when you are ready to make your experiment to ensure they are sterile.
