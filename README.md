@@ -10,7 +10,7 @@ This document will show you how to visualize fluorescent proteins. They are wide
 ### 4)Software
 ### 5)Timelapse with webcam
 ### 6)GFP - Green fluorescent proteins
-### 7)Material list
+### 7)[Material list](https://github.com/heleneopencell/bixels#overview-materials)
 
 ##### Overview
 A fluorescent protein is a type of fluorescent chemical compound (fluorophore) that can re-emit light upon light excitation. If one colour of light lands on a fluorescent protein, the protein will glow with a different colour.
@@ -62,6 +62,8 @@ Note: We have made two designs for the filterbox:
 **Smaller round cut-out:** The benefit here is that less natural light gets in the box which improves the performance. This is particular useful if are planning to use it with a camera. Which I will explain in more detail in [chapter 4](chapter 4).  
 **Larger cut-out:** This works better if you want to turn it into a bio-display. You can do fun things such as building your own bio-gameboy with it. Downside is that it works best in the dark because it lets more natural light in. You can also improve this by using 2 blue flights on top of each other.
 ![lasercut box](/picturesreadme/image15.jpg)  
+  
+### 3)Assembly
  
 ###### Folding the boxes
 Bixels is made of 3 parts. The main box for the electronics, the filterbox to turn it into a transilluminator and our PCR matrix to hold your PCR strips in place.
@@ -85,13 +87,12 @@ The PCR matrix is designed to fit with PCR strips which will place each PCR tube
 It is a simple matrix which can be connected without the use of any glue.  
 [Watch how here](https://vimeo.com/259033478)
 
-### 3)Assembly
 ### 4)Software
 ### 5)Timelapse with webcam
 ### 6)GFP - Green fluorescent proteins
 What is a Fluorescent Protein?
   
-  
+
 ### Overview Materials  
 
 | Electronic Parts  | Supplier EU  | Supplier US  |
