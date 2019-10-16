@@ -29,7 +29,7 @@ _____________________
   
 | Cover / Box | Supplier EU  | Supplier US  |
 |-------------------|--------------|--------------|
-| Cardboard |[Amazon](http://tiny.cc/vwdmez) | [Name](http://tiny.cc/xzdmez) |
+| Cardboard |[Amazon](http://tiny.cc/vwdmez) | [Amazon](http://tiny.cc/xzdmez) |
 | Double sided tape| [Amazon](http://tiny.cc/fqdmez) | [Amazon](http://tiny.cc/jtdmez) |
 | Superglue | [Amazon](http://tiny.cc/9odmez) | [Amazon](http://tiny.cc/nndmez)|
 _____________________
@@ -69,8 +69,15 @@ Proteins can take up to a few hours to get expressed. We therefore added a secti
 
 _____________________
 
-### 1)Electronic parts  
+### 1)Electronic parts
+We will be using off-the-shelf electronics from adafruit for this project. Adafruit is super user friendly, fantastic for quick DIY projects and has a huge community to reach out for help and inspiration.
+We will be using their [Adafruit Feather 32u4](https://www.adafruit.com/product/2829) board which is bluetooth enabled to control a [8x8 Neopixel LED matrix](https://www.adafruit.com/product/1487) with our phone. To power bixels we will add a [micro USB breakout](https://www.adafruit.com/product/1833). This enables you to power bixels with a power bank, your laptop or with a wall plug.
 
+![electronic circuit](/picturesreadme/image7.jpg)
+  
+  
+
+To start with we have to solder the 
 
 ### 2)Cardboard box
 Let's get started by creating the cover for bixels which is a simple cardboard box. I have chosen cardboard because it allows you to quickly iterate and customize the design without the need of any equipment such as a 3D printer. 
