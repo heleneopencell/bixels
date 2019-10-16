@@ -43,7 +43,7 @@ To start with we have to solder the stacking headers on the Adafruit Feather and
 
 To power bixels we will add a micro usb port. Take a black or brown "female to female" jumper wire an cut it in half. Connect the wire end with each other and solder it on the GND pin on the USB Micro B-Breakout board. Now take a red "female to female" jumper wire an cut it in half. Connect the wire end with each other and solder it on the 5V pin on the USB Micro B-Breakout board. We will use one black and one red cable to power the LEDs and one black and one red one to power the board itself.  
   
-![soldering microusb](/picturesreadme/image13.png)
+![soldering microusb](/picturesreadme/image13.jpg)
 
 
 ### 2)Cardboard box
@@ -76,16 +76,15 @@ First we have to mount the USB breakout board on the main box with the two M2 sc
 Now let’s **fold the filter box**: Glue the orange filter from on top of the cut-out. We have made two designs for this:  
 
 **Smaller round cut-out:** The benefit here is that less natural light gets in the box which improves the performance. This is particular useful if are planning to use it with a camera. Which I will explain in more detail in [chapter 4](chapter 4).  
-[Watch video here](https://vimeo.com/236662100l)
-
 
 **Larger cut-out:** This works better if you want to turn it into a bio-display. You can do fun things such as building your own bio-gameboy with it. Downside is that it works best in the dark because it lets more natural light in. You can also improve this by using 2 blue flights on top of each other.  
-[Watch video here](https://vimeo.com/259029617)
+[![fold filterbox](https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da724359c9af571acbb3807_video2.jpg)](https://vimeo.com/259029617)
 
 Let's **fold the PCR matrix:**  
 The PCR matrix is designed to fit with PCR strips which will place each PCR tube right on top of an LED. Fill the matrix when you are ready to make your experiment to ensure they are sterile.
 It is a simple matrix which can be connected without the use of any glue.  
-[Watch how here](https://vimeo.com/259033478)
+[![pcr matrix](https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da724c821fdc55333798553_video3.jpg)](https://vimeo.com/259033478)
+
 
 ### 4)Software
 ### 5)Timelapse with webcam
