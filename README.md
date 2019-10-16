@@ -19,6 +19,13 @@ This document will show you how to visualize fluorescent proteins. They are wide
 | USB Micro B-Breakout   | [Amazon](http://tiny.cc/k0bmez) | [Adafruit](https://www.adafruit.com/product/1833) |
 | Jumper wire | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916450/) | [Adafruit](https://www.adafruit.com/product/1951)|
 _____________________
+  
+| Filters | Supplier EU | Supplier US  |
+|-------------------|--------------|--------------|
+| Diffuser Paper 72mm x 72mm |[Amazon](http://tiny.cc/7ecmez) | [Amazon](https://www.adafruit.com/product/1487) |
+| Translucent Amber Filter 72mm x 72mm | [Plastic People](https://www.theplasticpeople.co.uk/coloured-acrylic-perspex/) | [Acrylite](https://www.mcmaster.com/85635k461) |
+| Translucent Blue Filter 72mm x 72mm | [Plastic People](https://www.theplasticpeople.co.uk/coloured-acrylic-perspex/) | [Acrylite](https://www.mcmaster.com/85635k461) |
+_____________________
 
 ##### Overview
 A fluorescent protein is a type of fluorescent chemical compound (fluorophore) that can re-emit light upon light excitation. If one colour of light lands on a fluorescent protein, the protein will glow with a different colour.
