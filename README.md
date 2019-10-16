@@ -91,7 +91,7 @@ To start with we have to solder the stacking headers on the Adafruit Feather and
 
 To power bixels we will add a micro usb port. Take a black or brown "female to female" jumper wire an cut it in half. Connect the wire end with each other and solder it on the GND pin on the USB Micro B-Breakout board. Now take a red "female to female" jumper wire an cut it in half. Connect the wire end with each other and solder it on the 5V pin on the USB Micro B-Breakout board. We will use one black and one red cable to power the LEDs and one black and one red one to power the board itself.  
   
-![soldering microusb](/picturesreadme/image13.jpg)
+![soldering microusb](/picturesreadme/image17.png)
 
 
 ### 2)Cardboard box
@@ -118,7 +118,7 @@ First we have to mount the USB breakout board on the main box with the two M2 sc
 Now let’s **fold the filter box**: Glue the orange filter from on top of the cut-out. We have made two designs for this:  
 
 **Smaller round cut-out:** The benefit here is that less natural light gets in the box which improves the performance. This is particular useful if are planning to use it with a camera. Which I will explain in more detail in [chapter 4](chapter 4).  
-[![Video mainbox]({/picturesreadme/image17.png})]({https://vimeo.com/236662100l} "Video mainbox")
+[![Video mainbox](/picturesreadme/image16.jpg)](https://vimeo.com/236662100l "Video mainbox")
 
 
 **Larger cut-out:** This works better if you want to turn it into a bio-display. You can do fun things such as building your own bio-gameboy with it. Downside is that it works best in the dark because it lets more natural light in. You can also improve this by using 2 blue flights on top of each other.  
