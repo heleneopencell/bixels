@@ -15,26 +15,29 @@ This document will show you how to visualize fluorescent proteins. They are wide
 
 | Electronic Parts  | Supplier EU  | Supplier US  |
 |-------------------|--------------|--------------|
-| Neopixel Matrix |[RS Components](https://uk.rs-online.com/web/p/led-evaluation-kits/1245498/) | [Adafruit](https://www.adafruit.com/product/1487) |
-| Adafruit Feather 32u4 | [RS Component](http://tiny.cc/xpbmez) | [Adafruit](https://www.adafruit.com/product/2829) |
-| USB Micro B-Breakout   | [Amazon](http://tiny.cc/k0bmez) | [Adafruit](https://www.adafruit.com/product/1833) |
-| Jumper wire female/female | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916450/) | [Adafruit](https://www.adafruit.com/product/1951)|
-| Jumper wire female/male | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916454/) | [Adafruit](https://www.adafruit.com/product/1953)|
+| 1x Neopixel Matrix |[RS Components](https://uk.rs-online.com/web/p/led-evaluation-kits/1245498/) | [Adafruit](https://www.adafruit.com/product/1487) |
+| 1x Adafruit Feather 32u4 | [RS Component](http://tiny.cc/xpbmez) | [Adafruit](https://www.adafruit.com/product/2829) |
+| 1x USB Micro B-Breakout   | [Amazon](http://tiny.cc/k0bmez) | [Adafruit](https://www.adafruit.com/product/1833) |
+| 1x Jumper wire female/female | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916450/) | [Adafruit](https://www.adafruit.com/product/1951)|
+| 1x Jumper wire female/male | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916454/) | [Adafruit](https://www.adafruit.com/product/1953)|
 
 _____________________
   
 | Filters | Supplier EU | Supplier US  |
 |-------------------|--------------|--------------|
-| Diffuser Paper 72mm x 72mm |[Amazon](http://tiny.cc/7ecmez) | [Amazon](https://www.adafruit.com/product/1487) |
-| Translucent Amber Filter 72mm x 72mm | [Plastic People](https://www.theplasticpeople.co.uk/coloured-acrylic-perspex/) | [Acrylite](https://www.mcmaster.com/85635k461) |
-| Translucent Blue Filter 72mm x 72mm | [Plastic People](https://www.theplasticpeople.co.uk/coloured-acrylic-perspex/) | [Acrylite](https://www.mcmaster.com/85635k461) |
+| 1x Diffuser Paper 72mm x 72mm |[Amazon](http://tiny.cc/7ecmez) | [Amazon](https://www.adafruit.com/product/1487) |
+| 1x Translucent Amber Filter 72mm x 72mm | [Plastic People](https://www.theplasticpeople.co.uk/coloured-acrylic-perspex/) | [Acrylite](https://www.mcmaster.com/85635k461) |
+| 1x Translucent Blue Filter 72mm x 72mm | [Plastic People](https://www.theplasticpeople.co.uk/coloured-acrylic-perspex/) | [Acrylite](https://www.mcmaster.com/85635k461) |
 _____________________
   
 | Cover / Box | Supplier EU  | Supplier US  |
 |-------------------|--------------|--------------|
-| Cardboard |[Amazon](http://tiny.cc/vwdmez) | [Amazon](http://tiny.cc/xzdmez) |
-| Double sided tape| [Amazon](http://tiny.cc/fqdmez) | [Amazon](http://tiny.cc/jtdmez) |
-| Superglue | [Amazon](http://tiny.cc/9odmez) | [Amazon](http://tiny.cc/nndmez)|
+| 1x Cardboard |[Amazon](http://tiny.cc/vwdmez) | [Amazon](http://tiny.cc/xzdmez) |
+| 1x Double sided tape| [Amazon](http://tiny.cc/fqdmez) | [Amazon](http://tiny.cc/jtdmez) |
+| 1x Superglue | [Amazon](http://tiny.cc/9odmez) | [Amazon](http://tiny.cc/nndmez)|
+| 2x M2 Hex Nut | [RS Compnent](https://uk.rs-online.com/web/p/hex-nuts/0560271/) | [Amazon](http://tiny.cc/nndmez)|
+| 2x M2 Hex Screw | [RS Compnent](https://uk.rs-online.com/web/p/connector-screws-nuts/1665038/) | [Amazon](http://tiny.cc/nndmez)|
+
 _____________________
   
 | Equipment | Supplier EU  | Supplier US  |
@@ -99,23 +102,24 @@ You can either lasercut your parts or print the PDF on a A3 sheet and cut it out
 ###### For the lasercut
 [Download](https://github.com/heleneopencell/bixels/tree/master/lasercut) the file here. The yellow lines are for engraving the cardboard to easier fold it. The red lines are cuts. We suggest to test your two settings in a small corner beforehand.  
 
-![soldering microusb](/picturesreadme/image13.jpg)  
+![lasercutfiles](/picturesreadme/image16.jpg)  
  
 ###### For cutting it by hand
 [Download](https://github.com/heleneopencell/bixels/tree/master/printfiles) the files here. Print it on an A3 paper and mount it on a thicker cardboard. You don’t want anything moving. I suggest to use (removable) spray-mount for it. For the PCR matrix and it is best to use a lasercutter but it is possible to cut it by hand - a holepuncher is useful. (Just a bit fiddly)  
 
-![lasercut box](/picturesreadme/image14.jpg)  
+![lasercut box](/picturesreadme/image15.jpg)  
  
 ###### Folding the boxes
 Bixels is made of 3 parts. The main box for the electronics, the filterbox to turn it into a transilluminator and our PCR matrix to hold your PCR strips in place.
- 
-First let's **fold the main box** for the electronics: The inner box will be used as a platform for your led-display.  
+
+First we have to mount the USB breakout board on the main box with the two M2 screws and nuts. Now let's **fold the main box** for the electronics: The inner box will be used as a platform for your led-display.  
 [You can watch how to here.](https://vimeo.com/259026890) 
  
 Now let’s **fold the filter box**: Glue the orange filter from on top of the cut-out. We have made two designs for this:  
 
 **Smaller round cut-out:** The benefit here is that less natural light gets in the box which improves the performance. This is particular useful if are planning to use it with a camera. Which I will explain in more detail in [chapter 4](chapter 4).  
-[Watch video here](https://vimeo.com/236662100) 
+[![Video mainbox]({/picturesreadme/image17.jpg})]({https://vimeo.com/236662100l} "Video mainbox")
+
 
 **Larger cut-out:** This works better if you want to turn it into a bio-display. You can do fun things such as building your own bio-gameboy with it. Downside is that it works best in the dark because it lets more natural light in. You can also improve this by using 2 blue flights on top of each other.  
 [Watch video here](https://vimeo.com/259029617)
