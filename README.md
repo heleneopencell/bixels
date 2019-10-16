@@ -11,6 +11,9 @@ This document will show you how to visualize fluorescent proteins. They are wide
 ### 5)[Timelapse with webcam](https://github.com/heleneopencell/bixels#5timelapse-with-webcam-1)
 ### 6)[GFP - Green fluorescent proteins](https://github.com/heleneopencell/bixels#6gfp---green-fluorescent-proteins-1)
 ### 7)[Material list](https://github.com/heleneopencell/bixels#overview-materials)
+  
+  ![final project](/picturesreadme/image1.jpg)
+
 
 ##### Overview
 A fluorescent protein is a type of fluorescent chemical compound (fluorophore) that can re-emit light upon light excitation. If one colour of light lands on a fluorescent protein, the protein will glow with a different colour.
