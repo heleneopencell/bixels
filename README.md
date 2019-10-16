@@ -9,6 +9,14 @@ This document will show you how to visualize fluorescent proteins. They are wide
 ### 3)Software
 ### 4)Timelapse with webcam
 ### 5)GFP - Green fluorescent proteins
+
+### Overview Materials
+| Electronic Parts  | Supplier EU  | Supplier US  |
+|-------------------|--------------|--------------|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 _____________________
 
 ##### Overview
@@ -16,7 +24,7 @@ A fluorescent protein is a type of fluorescent chemical compound (fluorophore) t
 
 The story of the extraction, isolation and study of **green fluorescent protein (GFP)** is fascinating. It is also a hugely significant scientific discovery for which the 2008 Nobel Prize in Chemistry was awarded.
 
-We will use build a cardboard box to block out any unwanted light and use a set of optical filters. The filters allow the correct light to reach the fluorescent proteins from the LEDs and for the correct light to reach your eye from the fluorescent proteins. The diffuser simply diffuses the light evenly which is not necessary but useful if you want to use Bixels for something else than PCR tubes, for example electrophoresis gels. 
+In this tutorial we will build a cardboard box to block out any unwanted light and use a set of optical filters. The filters allow the correct light to reach the fluorescent proteins from the LEDs and for the correct light to reach your eye from the fluorescent proteins. The diffuser simply diffuses the light evenly which is not necessary but useful if you want to use Bixels for something else than PCR tubes, for example electrophoresis gels. 
 
 The RGB LED matrix we are using is capable of generating the required light to stimulate fluorescence in many types of fluorescent proteins. The filters described in this tutorial are only suitable for GFP but you can exchange them. [You can learn more here](https://www.biotek.com/assets/tech_resources/Filter%20Combinations.pdf) which filters to use for which fluorescent protein.
 
@@ -27,6 +35,7 @@ Proteins can take up to a few hours to get expressed. We therefore added a secti
 _____________________
 
 ### 1)Electronic parts  
+
 
 ### 2)Cardboard box
 Let's get started by creating the cover for bixels which is a simple cardboard box. I have chosen cardboard because it allows you to quickly iterate and customize the design without the need of any equipment such as a 3D printer. 
