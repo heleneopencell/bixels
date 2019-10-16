@@ -12,7 +12,7 @@ This document will show you how to visualize fluorescent proteins. They are wide
 ### 6)[GFP - Green fluorescent proteins](https://github.com/heleneopencell/bixels#6gfp---green-fluorescent-proteins-1)
 ### 7)[Material list](https://github.com/heleneopencell/bixels#overview-materials)
   
-  ![final project](/picturesreadme/image1.jpg)
+  ![final project](/picturesreadme/image21.jpg)
 
 
 ##### Overview
