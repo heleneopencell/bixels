@@ -10,13 +10,14 @@ This document will show you how to visualize fluorescent proteins. They are wide
 ### 4)Timelapse with webcam
 ### 5)GFP - Green fluorescent proteins
 
-### Overview Materials
+### Overview Materials  
+
 | Electronic Parts  | Supplier EU  | Supplier US  |
 |-------------------|--------------|--------------|
-| Neopixel Matrix |[RS Components](https://uk.rs-online.com/web/p/led-evaluation-kits/1245498/)]  |   |   |   |
-| Adafruit Feather 32u4 |   |   |   |   |
-| USB Micro B-Breakout   |   |   |   |   |
-| Jumper wire |   |   |   |   |
+| Neopixel Matrix |[RS Components](https://uk.rs-online.com/web/p/led-evaluation-kits/1245498/) | [Adafruit](https://www.adafruit.com/product/1487) |
+| Adafruit Feather 32u4 | [RS Component](http://tiny.cc/xpbmez) | [Adafruit](https://www.adafruit.com/product/2829) |
+| USB Micro B-Breakout   | [Amazon](http://tiny.cc/k0bmez) | [Adafruit](https://www.adafruit.com/product/1833) |
+| Jumper wire | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916450/) | [Adafruit](https://www.adafruit.com/product/1951)|
 _____________________
 
 ##### Overview
