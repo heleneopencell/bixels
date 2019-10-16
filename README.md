@@ -98,7 +98,33 @@ Now connect one of the **black wires** from the micro usb breakout board to the 
 [![assembly](https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da729025e45da16caef2aed_video4.jpg)](https://vimeo.com/259130358)  
 
 
-### 4)Software
+### 4)Software  
+
+###### Arduino set-up for Adafruit Feather 32u4 
+If you haven’t done it already, download the newest [Arduino IDE version](https://www.arduino.cc/en/main/software). Next we have to set up our Bluefruit Feather Board for Arduino as described [here](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup) and install the board with the Board Manager and install the adafruit driver as described [here](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup).  
+
+###### Uploading Arduino sketch 
+Before uploading our sketch install you need to install the BLE library as described [here](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/installing-ble-library). 
+Now download the [bixel.zip](/bixel.zip), extract or unpack it and open the file bixel.ino which is inside the folder.
+
+It’s time to upload your code onto your device. Connect the USB from your bixel to your computer and choose the correct port inside your Arduino window. Now click upload and wait till it got successfully uploaded. It should look something like this.
+
+![choose port](/picturesreadme/image26.jpg)  
+![upload](/picturesreadme/image26.jpg)  
+![upload](/picturesreadme/image27.jpg)  
+  
+###### App to control your pixels and to design your Bixels
+Now let’s get started to be able to control the LEDs. First download the Adafruit Bluefruit LE Connect App on your phone. The app is available for [iOS](https://apps.apple.com/gb/app/adafruit-bluefruit-le-connect/id830125974) and [Android](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect&hl=en_GB).
+ 
+Open the app and connect to your device Adafruit Bluefruit LE.
+Choose the NeoPixel icon in the bottom line and press OK when it gives your a notice.
+Next we have to choose the correct matrix layout. Click the settings button at the top, next to the word ‘NeoPixel’ and choose ‘8x8’.
+Press ‘Connect’ and your LED’s should turn on. Now you are ready to control your pixels. 
+
+![configure app](/picturesreadme/image28.jpg)  
+![configure app](/picturesreadme/image29.jpg)  
+
+
 ### 5)Timelapse with webcam
 ### 6)GFP - Green fluorescent proteins
 What is a Fluorescent Protein?
