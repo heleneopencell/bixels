@@ -91,7 +91,7 @@ To start with we have to solder the stacking headers on the Adafruit Feather and
 
 To power bixels we will add a micro usb port. Take a black or brown "female to female" jumper wire an cut it in half. Connect the wire end with each other and solder it on the GND pin on the USB Micro B-Breakout board. Now take a red "female to female" jumper wire an cut it in half. Connect the wire end with each other and solder it on the 5V pin on the USB Micro B-Breakout board. We will use one black and one red cable to power the LEDs and one black and one red one to power the board itself.  
   
-![soldering microusb](/picturesreadme/image17.png)
+![soldering microusb](/picturesreadme/image13.png)
 
 
 ### 2)Cardboard box
@@ -108,14 +108,14 @@ You can either lasercut your parts or print the PDF on a A3 sheet and cut it out
 Note: We have made two designs for the filterbox:  
 
 **Smaller round cut-out:** The benefit here is that less natural light gets in the box which improves the performance. This is particular useful if are planning to use it with a camera. Which I will explain in more detail in [chapter 4](chapter 4).  
-**Larger cut-out:** This works better if you want to turn it into a bio-display. You can do fun things such as building your own bio-gameboy with it. Downside is that it works best in the dark because it lets more natural light in. You can also improve this by using 2 blue flights on top of each other.  
-
+**Larger cut-out:** This works better if you want to turn it into a bio-display. You can do fun things such as building your own bio-gameboy with it. Downside is that it works best in the dark because it lets more natural light in. You can also improve this by using 2 blue flights on top of each other.
 ![lasercut box](/picturesreadme/image15.jpg)  
  
 ###### Folding the boxes
 Bixels is made of 3 parts. The main box for the electronics, the filterbox to turn it into a transilluminator and our PCR matrix to hold your PCR strips in place.
 
 First we have to mount the USB breakout board on the main box with the two M2 screws and nuts. Now let's **fold the main box** for the electronics: The inner box will be used as a platform for your led-display.  
+  
 [![fold mainbox](https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da72131bc6da772398e5004_video1.jpg)](https://vimeo.com/259026890)
 
  
