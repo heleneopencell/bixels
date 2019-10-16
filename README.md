@@ -109,9 +109,8 @@ Now download the [bixel.zip](/bixel.zip), extract or unpack it and open the file
 
 It’s time to upload your code onto your device. Connect the USB from your bixel to your computer and choose the correct port inside your Arduino window. Now click upload and wait till it got successfully uploaded. It should look something like this.
 
-![choose port](/picturesreadme/image26.jpg)  
-![upload](/picturesreadme/image26.jpg)  
-![upload](/picturesreadme/image27.jpg)  
+![choose port](/picturesreadme/image26.png)  
+![upload](/picturesreadme/image27.png)  
   
 ###### App to control your pixels and to design your Bixels
 Now let’s get started to be able to control the LEDs. First download the Adafruit Bluefruit LE Connect App on your phone. The app is available for [iOS](https://apps.apple.com/gb/app/adafruit-bluefruit-le-connect/id830125974) and [Android](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect&hl=en_GB).
