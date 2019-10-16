@@ -116,7 +116,7 @@ Note: We have made two designs for the filterbox:
 Bixels is made of 3 parts. The main box for the electronics, the filterbox to turn it into a transilluminator and our PCR matrix to hold your PCR strips in place.
 
 First we have to mount the USB breakout board on the main box with the two M2 screws and nuts. Now let's **fold the main box** for the electronics: The inner box will be used as a platform for your led-display.  
-[![fold mainbox](https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da7201874d4ca4d1c8be2a2_video1.jpg)](https://vimeo.com/259026890)
+[![fold mainbox](https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da720ab74d4ca684e8be4d7_video1.jpg)](https://vimeo.com/259026890)
 
  
 Now let’s **fold the filter box**: Glue the orange filter from on top of the cut-out. We have made two designs for this:  
