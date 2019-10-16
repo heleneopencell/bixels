@@ -41,7 +41,7 @@ To start with we have to solder the stacking headers on the Adafruit Feather and
 
 ![soldering neopixel](/picturesreadme/image12.jpg)  
 
-To power bixels we will add a micro usb port. Take a black or brown "female to female" jumper wire an cut it in half. Connect the wire end with each other and solder it on the GND pin on the USB Micro B-Breakout board. Now take a red "female to female" jumper wire an cut it in half. Connect the wire end with each other and solder it on the 5V pin on the USB Micro B-Breakout board. We will use one black and one red cable to power the LEDs and one black and one red one to power the board itself.  
+To power bixels we will add a micro usb port. Take a two black or brown "female to female" jumper wires and cut one end off. Connect the wire end with each other and solder it on the GND pin on the USB Micro B-Breakout board. Now take two red "female to female" jumper wire wires and cut one end off. Connect the wire end with each other and solder it on the 5V pin on the USB Micro B-Breakout board. We will use one black and one red cable to power the LEDs and one black and one red one to power the board itself.  
   
 ![soldering microusb](/picturesreadme/image13.jpg)
 
@@ -86,8 +86,13 @@ Let's **fold the PCR matrix:**
 The PCR matrix is designed to fit with PCR strips which will place each PCR tube right on top of an LED. Fill the matrix when you are ready to make your experiment to ensure they are sterile.
 It is a simple matrix which can be connected without the use of any glue.  
   
+
+[![pcr matrix](https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da724c821fdc55333798553_video3.jpg)](https://vimeo.com/259033478)  
+
+Next let's connect all electronics. Connect one of the **red wires** from the micro usb breakout board to the **5V pin** on the Neopixel matrix and one red wire to the **USB pin** on Bluefruit feather board.
+Now connect one of the **black wires** from the micro usb breakout board to the **GND pin** on the Neopixel matrix and one black wire to the **GND pin** on Bluefruit feather board. Next grab one of the female/female **jumper wires** and connect the **DIN pin** on the Neopixel matrix with **Pin6** on the Bluefruit feather board. Hide carefully the board in the little compartment and place the LED matrix on top. Connect the usb cable and we are ready to go.
   
-[![pcr matrix](https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da724c821fdc55333798553_video3.jpg)](https://vimeo.com/259033478)
+[![assembly](https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da729025e45da16caef2aed_video4.jpg)](https://vimeo.com/259130358)  
 
 
 ### 4)Software
@@ -104,7 +109,8 @@ What is a Fluorescent Protein?
 | 1x Adafruit Feather 32u4 | [RS Component](http://tiny.cc/xpbmez) | [Adafruit](https://www.adafruit.com/product/2829) |
 | 1x USB Micro B-Breakout   | [Amazon](http://tiny.cc/k0bmez) | [Adafruit](https://www.adafruit.com/product/1833) |
 | 1x Jumper wire female/female | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916450/) | [Adafruit](https://www.adafruit.com/product/1951)|
-| 1x Jumper wire female/male | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916454/) | [Adafruit](https://www.adafruit.com/product/1953)|
+| 1x Micro USB Cable | [RS Components](https://uk.rs-online.com/web/p/usb-cables/8762403/) | [Adafruit](https://www.adafruit.com/product/1995)|
+
 
 _____________________
   
