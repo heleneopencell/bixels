@@ -107,18 +107,24 @@ You can either lasercut your parts or print the PDF on a A3 sheet and cut it out
 ###### For cutting it by hand
 [Download](https://github.com/heleneopencell/bixels/tree/master/printfiles) the files here. Print it on an A3 paper and mount it on a thicker cardboard. You don’t want anything moving. I suggest to use (removable) spray-mount for it. For the PCR matrix and it is best to use a lasercutter but it is possible to cut it by hand - a holepuncher is useful. (Just a bit fiddly)  
 
+Note: We have made two designs for the filterbox:  
+
+**Smaller round cut-out:** The benefit here is that less natural light gets in the box which improves the performance. This is particular useful if are planning to use it with a camera. Which I will explain in more detail in [chapter 4](chapter 4).  
+**Larger cut-out:** This works better if you want to turn it into a bio-display. You can do fun things such as building your own bio-gameboy with it. Downside is that it works best in the dark because it lets more natural light in. You can also improve this by using 2 blue flights on top of each other.  
+
 ![lasercut box](/picturesreadme/image15.jpg)  
  
 ###### Folding the boxes
 Bixels is made of 3 parts. The main box for the electronics, the filterbox to turn it into a transilluminator and our PCR matrix to hold your PCR strips in place.
 
 First we have to mount the USB breakout board on the main box with the two M2 screws and nuts. Now let's **fold the main box** for the electronics: The inner box will be used as a platform for your led-display.  
-[You can watch how to here.](https://vimeo.com/259026890) 
+[![You can watch how to here.](https://image.flaticon.com/icons/png/128/120/120625.png)](https://vimeo.com/259026890)
+
  
 Now let’s **fold the filter box**: Glue the orange filter from on top of the cut-out. We have made two designs for this:  
 
 **Smaller round cut-out:** The benefit here is that less natural light gets in the box which improves the performance. This is particular useful if are planning to use it with a camera. Which I will explain in more detail in [chapter 4](chapter 4).  
-[![Video mainbox](/picturesreadme/image16.jpg)](https://vimeo.com/236662100l "Video mainbox")
+[Watch video here](https://vimeo.com/236662100l)
 
 
 **Larger cut-out:** This works better if you want to turn it into a bio-display. You can do fun things such as building your own bio-gameboy with it. Downside is that it works best in the dark because it lets more natural light in. You can also improve this by using 2 blue flights on top of each other.  
