@@ -13,10 +13,10 @@ This document will show you how to visualize fluorescent proteins. They are wide
 ### Overview Materials
 | Electronic Parts  | Supplier EU  | Supplier US  |
 |-------------------|--------------|--------------|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Neopixel Matrix        |   |   |   |   |
+| Adafruit Feather 32u4  |   |   |   |   |
+| USB Micro B-Breakout   |   |   |   |   |
+| Jumper wire            |   |   |   |   |
 _____________________
 
 ##### Overview
