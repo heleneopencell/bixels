@@ -97,10 +97,14 @@ Let's get started with the cover for bixels which is a simple cardboard box. I h
 You can either lasercut your parts or print the PDF on a A3 sheet and cut it out by hand. Use a non see-through cardboard! Test it out beforehand and hold it against the light. No light should be able to get through. I use [Mountboard from Daler Rowney](https://www.amazon.co.uk/Daler-Rowney-Black-Graduate-Mountboard/dp/B00GKCF0VG/ref=sr_1_4?keywords=mount+board+black&qid=1571151582&sr=8-4) because it allows you to make neat hinges. You can also add a layer of black thin cardboard on each side if your cardboard let's any light through, use sprayglue for laminating it on top.
  
 ###### For the lasercut
-Download the file here. The yellow lines are for engraving the cardboard to easier fold it. The red lines are cuts. We suggest to test your two settings in a small corner beforehand.
+[Download](https://github.com/heleneopencell/bixels/tree/master/lasercut) the file here. The yellow lines are for engraving the cardboard to easier fold it. The red lines are cuts. We suggest to test your two settings in a small corner beforehand.  
+
+![soldering microusb](/picturesreadme/image13.jpg)  
  
 ###### For cutting it by hand
-Download the file here. Print it on an A4 paper and mount it on a thicker cardboard. You don’t want anything moving. I suggest to use (removable) spray-mount for it. For the PCR matrix and it is best to use a lasercutter but it is possible to cut it by hand as well. (Just a bit fiddly)
+[Download](https://github.com/heleneopencell/bixels/tree/master/printfiles) the files here. Print it on an A3 paper and mount it on a thicker cardboard. You don’t want anything moving. I suggest to use (removable) spray-mount for it. For the PCR matrix and it is best to use a lasercutter but it is possible to cut it by hand - a holepuncher is useful. (Just a bit fiddly)  
+
+![lasercut box](/picturesreadme/image14.jpg)  
  
 ###### Folding the boxes
 Bixels is made of 3 parts. The main box for the electronics, the filterbox to turn it into a transilluminator and our PCR matrix to hold your PCR strips in place.
