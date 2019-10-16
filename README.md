@@ -80,9 +80,12 @@ To start with we have to solder the stacking headers on the Adafruit Feather and
  
 
 ![soldering bluefruit](/picturesreadme/image11.jpg)
-  
-![soldering neopixel](/picturesreadme/image12.jpg)
 
+![soldering neopixel](/picturesreadme/image12.jpg)  
+
+To power bixels we will add a micro usb port. Take a black or brown "female to female" jumper wire an cut it in half. Connect the wire end with each other and solder it on the GND pin on the USB Micro B-Breakout board. Now take a red "female to female" jumper wire an cut it in half. Connect the wire end with each other and solder it on the 5V pin on the USB Micro B-Breakout board. We will use one black and one red cable to power the LEDs and one black and one red one to power the board itself.  
+  
+![soldering microusb](/picturesreadme/image12.jpg)
 
 ### 2)Cardboard box
 Let's get started by creating the cover for bixels which is a simple cardboard box. I have chosen cardboard because it allows you to quickly iterate and customize the design without the need of any equipment such as a 3D printer. 
