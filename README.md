@@ -4,12 +4,12 @@ This document will show you how to visualize fluorescent proteins. They are wide
 
 [More info](https://www.bixels.io/tutorials)
 
-### 1)Electronic parts
+### 1)[Electronic parts](https://github.com/heleneopencell/bixels#1electronic-parts-1)
 ### 2)[Cardboard box](https://github.com/heleneopencell/bixels#2cardboard-box-1)
-### 3)Assembly
-### 4)Software
-### 5)Timelapse with webcam
-### 6)GFP - Green fluorescent proteins
+### 3)[Assembly](https://github.com/heleneopencell/bixels#3assembly-1)
+### 4)[Software](https://github.com/heleneopencell/bixels#4software-1)
+### 5)[Timelapse with webcam](https://github.com/heleneopencell/bixels#5timelapse-with-webcam-1)
+### 6)[GFP - Green fluorescent proteins](https://github.com/heleneopencell/bixels#6gfp---green-fluorescent-proteins-1)
 ### 7)[Material list](https://github.com/heleneopencell/bixels#overview-materials)
 
 ##### Overview
