@@ -76,12 +76,14 @@ We will be using their [Adafruit Feather 32u4](https://www.adafruit.com/product/
 ![electronic circuit](/picturesreadme/image7.jpg)
   
 
-To start with we have to solder the stacking headers on the Adafruit Feather. I recommend using the headers rather than soldering the cables directly on the board. The headers will allows you to be much for flexible and enable you to expand your project at a later stage with useful sensors such as humdity and temperature. For the ones that are new to soldering, check out this usefull [guide to excellent soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering).
-  
+To start with we have to solder the stacking headers on the Adafruit Feather and Neopixel Matrix. I recommend using the headers rather than soldering the cables directly on the board. The headers will allows you to be much for flexible and enable you to expand your project at a later stage with useful sensors such as humdity and temperature. For the ones that are new to soldering, check out this usefull [guide to excellent soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering).
+ 
 
 ![soldering bluefruit](/picturesreadme/image11.jpg)
   
-  
+![soldering neopixel](/picturesreadme/image12.jpg)
+
+
 ### 2)Cardboard box
 Let's get started by creating the cover for bixels which is a simple cardboard box. I have chosen cardboard because it allows you to quickly iterate and customize the design without the need of any equipment such as a 3D printer. 
 
