@@ -101,8 +101,6 @@ You can either lasercut your parts or print the PDF on a A3 sheet and cut it out
  
 ###### For the lasercut
 [Download](https://github.com/heleneopencell/bixels/tree/master/lasercut) the file here. The yellow lines are for engraving the cardboard to easier fold it. The red lines are cuts. We suggest to test your two settings in a small corner beforehand.  
-
-![lasercutfiles](/picturesreadme/image16.jpg)  
  
 ###### For cutting it by hand
 [Download](https://github.com/heleneopencell/bixels/tree/master/printfiles) the files here. Print it on an A3 paper and mount it on a thicker cardboard. You don’t want anything moving. I suggest to use (removable) spray-mount for it. For the PCR matrix and it is best to use a lasercutter but it is possible to cut it by hand - a holepuncher is useful. (Just a bit fiddly)  
@@ -118,7 +116,7 @@ Note: We have made two designs for the filterbox:
 Bixels is made of 3 parts. The main box for the electronics, the filterbox to turn it into a transilluminator and our PCR matrix to hold your PCR strips in place.
 
 First we have to mount the USB breakout board on the main box with the two M2 screws and nuts. Now let's **fold the main box** for the electronics: The inner box will be used as a platform for your led-display.  
-[![You can watch how to here.](https://image.flaticon.com/icons/png/128/120/120625.png)](https://vimeo.com/259026890)
+[![You can watch how to here.](https://i.vimeocdn.com/video/687364137_260x146.jpg)](https://vimeo.com/259026890)
 
  
 Now let’s **fold the filter box**: Glue the orange filter from on top of the cut-out. We have made two designs for this:  
