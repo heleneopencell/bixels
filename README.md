@@ -6,9 +6,10 @@ This document will show you how to visualize fluorescent proteins. They are wide
 
 ### 1)Electronic parts
 ### 2)[Cardboard box](https://github.com/heleneopencell/bixels#2cardboard-box-1)
-### 3)Software
-### 4)Timelapse with webcam
-### 5)GFP - Green fluorescent proteins
+### 3)Assembly
+### 4)Software
+### 5)Timelapse with webcam
+### 6)GFP - Green fluorescent proteins
 
 ### Overview Materials  
 
@@ -17,7 +18,9 @@ This document will show you how to visualize fluorescent proteins. They are wide
 | Neopixel Matrix |[RS Components](https://uk.rs-online.com/web/p/led-evaluation-kits/1245498/) | [Adafruit](https://www.adafruit.com/product/1487) |
 | Adafruit Feather 32u4 | [RS Component](http://tiny.cc/xpbmez) | [Adafruit](https://www.adafruit.com/product/2829) |
 | USB Micro B-Breakout   | [Amazon](http://tiny.cc/k0bmez) | [Adafruit](https://www.adafruit.com/product/1833) |
-| Jumper wire | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916450/) | [Adafruit](https://www.adafruit.com/product/1951)|
+| Jumper wire female/female | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916450/) | [Adafruit](https://www.adafruit.com/product/1951)|
+| Jumper wire female/male | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916454/) | [Adafruit](https://www.adafruit.com/product/1953)|
+
 _____________________
   
 | Filters | Supplier EU | Supplier US  |
@@ -87,13 +90,14 @@ To power bixels we will add a micro usb port. Take a black or brown "female to f
   
 ![soldering microusb](/picturesreadme/image13.jpg)
 
-### 2)Cardboard box
-Let's get started by creating the cover for bixels which is a simple cardboard box. I have chosen cardboard because it allows you to quickly iterate and customize the design without the need of any equipment such as a 3D printer. 
 
-You can either lasercut your parts or print the PDF on a A4 sheet and cut it out by hand. Use a non see-through cardboard! Test it out beforehand and hold it against the light. No light should be able to get through. I use [Mountboard from Daler Rowney](https://www.amazon.co.uk/Daler-Rowney-Black-Graduate-Mountboard/dp/B00GKCF0VG/ref=sr_1_4?keywords=mount+board+black&qid=1571151582&sr=8-4) because it allows you to make neat hinges. You can also add a layer of black thin cardboard on each side if your cardboard let's any light through, use sprayglue for laminating it on top.
+### 2)Cardboard box
+Let's get started with the cover for bixels which is a simple cardboard box. I have chosen cardboard because it allows you to quickly iterate and customize the design without the need of any equipment such as a 3D printer. 
+
+You can either lasercut your parts or print the PDF on a A3 sheet and cut it out by hand. Use a non see-through cardboard! Test it out beforehand and hold it against the light. No light should be able to get through. I use [Mountboard from Daler Rowney](https://www.amazon.co.uk/Daler-Rowney-Black-Graduate-Mountboard/dp/B00GKCF0VG/ref=sr_1_4?keywords=mount+board+black&qid=1571151582&sr=8-4) because it allows you to make neat hinges. You can also add a layer of black thin cardboard on each side if your cardboard let's any light through, use sprayglue for laminating it on top.
  
 ###### For the lasercut
-Download the file here. The red lines are for engraving the cardboard to easier fold it. The black lines are cuts. We suggest to test your two settings in a small corner beforehand.
+Download the file here. The yellow lines are for engraving the cardboard to easier fold it. The red lines are cuts. We suggest to test your two settings in a small corner beforehand.
  
 ###### For cutting it by hand
 Download the file here. Print it on an A4 paper and mount it on a thicker cardboard. You don’t want anything moving. I suggest to use (removable) spray-mount for it. For the PCR matrix and it is best to use a lasercutter but it is possible to cut it by hand as well. (Just a bit fiddly)
@@ -117,9 +121,10 @@ The PCR matrix is designed to fit with PCR strips which will place each PCR tube
 It is a simple matrix which can be connected without the use of any glue.  
 [Watch how here](https://vimeo.com/259033478)
 
-### 3)Software
-### 4)Timelapse with webcam
-### 5)GFP - Green fluorescent proteins
+### 3)Assembly
+### 4)Software
+### 5)Timelapse with webcam
+### 6)GFP - Green fluorescent proteins
 What is a Fluorescent Protein?
 
 
