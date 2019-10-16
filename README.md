@@ -10,55 +10,7 @@ This document will show you how to visualize fluorescent proteins. They are wide
 ### 4)Software
 ### 5)Timelapse with webcam
 ### 6)GFP - Green fluorescent proteins
-
-### Overview Materials  
-
-| Electronic Parts  | Supplier EU  | Supplier US  |
-|-------------------|--------------|--------------|
-| 1x Neopixel Matrix |[RS Components](https://uk.rs-online.com/web/p/led-evaluation-kits/1245498/) | [Adafruit](https://www.adafruit.com/product/1487) |
-| 1x Adafruit Feather 32u4 | [RS Component](http://tiny.cc/xpbmez) | [Adafruit](https://www.adafruit.com/product/2829) |
-| 1x USB Micro B-Breakout   | [Amazon](http://tiny.cc/k0bmez) | [Adafruit](https://www.adafruit.com/product/1833) |
-| 1x Jumper wire female/female | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916450/) | [Adafruit](https://www.adafruit.com/product/1951)|
-| 1x Jumper wire female/male | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916454/) | [Adafruit](https://www.adafruit.com/product/1953)|
-
-_____________________
-  
-| Filters | Supplier EU | Supplier US  |
-|-------------------|--------------|--------------|
-| 1x Diffuser Paper 72mm x 72mm |[Amazon](http://tiny.cc/7ecmez) | [Amazon](https://www.adafruit.com/product/1487) |
-| 1x Translucent Amber Filter 72mm x 72mm | [Plastic People](https://www.theplasticpeople.co.uk/coloured-acrylic-perspex/) | [Acrylite](https://www.mcmaster.com/85635k461) |
-| 1x Translucent Blue Filter 72mm x 72mm | [Plastic People](https://www.theplasticpeople.co.uk/coloured-acrylic-perspex/) | [Acrylite](https://www.mcmaster.com/85635k461) |
-_____________________
-  
-| Cover / Box | Supplier EU  | Supplier US  |
-|-------------------|--------------|--------------|
-| 1x Cardboard |[Amazon](http://tiny.cc/vwdmez) | [Amazon](http://tiny.cc/xzdmez) |
-| 1x Double sided tape| [Amazon](http://tiny.cc/fqdmez) | [Amazon](http://tiny.cc/jtdmez) |
-| 1x Superglue | [Amazon](http://tiny.cc/9odmez) | [Amazon](http://tiny.cc/nndmez)|
-| 2x M2 Hex Nut | [RS Compnent](https://uk.rs-online.com/web/p/hex-nuts/0560271/) | [Amazon](http://tiny.cc/nndmez)|
-| 2x M2 Hex Screw | [RS Compnent](https://uk.rs-online.com/web/p/connector-screws-nuts/1665038/) | [Amazon](http://tiny.cc/nndmez)|
-
-_____________________
-  
-| Equipment | Supplier EU  | Supplier US  |
-|-------------------|--------------|--------------|
-| Lasercutter or | local makerlab | local makerlab |
-| Cutter | [Amazon](https://www.amazon.co.uk/Silverline-789397-Zinc-Alloy-Snap-Off-Utility/dp/B003TNYHHW/ref=sr_1_5?keywords=cutter&qid=1571219430&sr=8-5) | [Amazon](http://tiny.cc/6gdmez) |
-| Mobile phone | Android or | iOS |
-_____________________
-  
-| Software | Supplier EU  | Supplier US  |
-|-------------------|--------------|--------------|
-| Arduino |[Windows](https://www.arduino.cc/en/guide/windows) | [OS X](https://www.arduino.cc/en/guide/macOSX) |
-| Bluefruit LE Connect | [Android](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect&hl=en_GB) | [iOS](https://apps.apple.com/gb/app/adafruit-bluefruit-le-connect/id830125974) |
-_____________________
-  
-| Biological Parts | Supplier EU  | Supplier US  |
-|-------------------|--------------|--------------|
-| Fluorescent Protein Kit (RGB) |[Amino Labs](https://amino.bio/collections/everything/products/rgb-kit-activate-cells-with-light) | [Amino Labs](https://amino.bio/collections/everything/products/rgb-kit-activate-cells-with-light) |
-| Mini Lab: BioExplorer™  | [Amino Labs](https://amino.bio/collections/everything/products/bioproduction-lab?variant=40528228676) | [Amino Labs](https://amino.bio/collections/everything/products/bioproduction-lab?variant=40528228676) |
-_____________________
-  
+### 7)Material list
 
 ##### Overview
 A fluorescent protein is a type of fluorescent chemical compound (fluorophore) that can re-emit light upon light excitation. If one colour of light lands on a fluorescent protein, the protein will glow with a different colour.
@@ -138,6 +90,56 @@ It is a simple matrix which can be connected without the use of any glue.
 ### 5)Timelapse with webcam
 ### 6)GFP - Green fluorescent proteins
 What is a Fluorescent Protein?
+  
+  
+### Overview Materials  
+
+| Electronic Parts  | Supplier EU  | Supplier US  |
+|-------------------|--------------|--------------|
+| 1x Neopixel Matrix |[RS Components](https://uk.rs-online.com/web/p/led-evaluation-kits/1245498/) | [Adafruit](https://www.adafruit.com/product/1487) |
+| 1x Adafruit Feather 32u4 | [RS Component](http://tiny.cc/xpbmez) | [Adafruit](https://www.adafruit.com/product/2829) |
+| 1x USB Micro B-Breakout   | [Amazon](http://tiny.cc/k0bmez) | [Adafruit](https://www.adafruit.com/product/1833) |
+| 1x Jumper wire female/female | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916450/) | [Adafruit](https://www.adafruit.com/product/1951)|
+| 1x Jumper wire female/male | [RS Components](https://uk.rs-online.com/web/p/breadboard-jumper-wire-kits/7916454/) | [Adafruit](https://www.adafruit.com/product/1953)|
+
+_____________________
+  
+| Filters | Supplier EU | Supplier US  |
+|-------------------|--------------|--------------|
+| 1x Diffuser Paper 72mm x 72mm |[Amazon](http://tiny.cc/7ecmez) | [Amazon](https://www.adafruit.com/product/1487) |
+| 1x Translucent Amber Filter 72mm x 72mm | [Plastic People](https://www.theplasticpeople.co.uk/coloured-acrylic-perspex/) | [Acrylite](https://www.mcmaster.com/85635k461) |
+| 1x Translucent Blue Filter 72mm x 72mm | [Plastic People](https://www.theplasticpeople.co.uk/coloured-acrylic-perspex/) | [Acrylite](https://www.mcmaster.com/85635k461) |
+_____________________
+  
+| Cover / Box | Supplier EU  | Supplier US  |
+|-------------------|--------------|--------------|
+| 1x Cardboard |[Amazon](http://tiny.cc/vwdmez) | [Amazon](http://tiny.cc/xzdmez) |
+| 1x Double sided tape| [Amazon](http://tiny.cc/fqdmez) | [Amazon](http://tiny.cc/jtdmez) |
+| 1x Superglue | [Amazon](http://tiny.cc/9odmez) | [Amazon](http://tiny.cc/nndmez)|
+| 2x M2 Hex Nut | [RS Compnent](https://uk.rs-online.com/web/p/hex-nuts/0560271/) | [Amazon](http://tiny.cc/nndmez)|
+| 2x M2 Hex Screw | [RS Compnent](https://uk.rs-online.com/web/p/connector-screws-nuts/1665038/) | [Amazon](http://tiny.cc/nndmez)|
+
+_____________________
+  
+| Equipment | Supplier EU  | Supplier US  |
+|-------------------|--------------|--------------|
+| Lasercutter or | local makerlab | local makerlab |
+| Cutter | [Amazon](https://www.amazon.co.uk/Silverline-789397-Zinc-Alloy-Snap-Off-Utility/dp/B003TNYHHW/ref=sr_1_5?keywords=cutter&qid=1571219430&sr=8-5) | [Amazon](http://tiny.cc/6gdmez) |
+| Mobile phone | Android or | iOS |
+_____________________
+  
+| Software | Supplier EU  | Supplier US  |
+|-------------------|--------------|--------------|
+| Arduino |[Windows](https://www.arduino.cc/en/guide/windows) | [OS X](https://www.arduino.cc/en/guide/macOSX) |
+| Bluefruit LE Connect | [Android](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect&hl=en_GB) | [iOS](https://apps.apple.com/gb/app/adafruit-bluefruit-le-connect/id830125974) |
+_____________________
+  
+| Biological Parts | Supplier EU  | Supplier US  |
+|-------------------|--------------|--------------|
+| Fluorescent Protein Kit (RGB) |[Amino Labs](https://amino.bio/collections/everything/products/rgb-kit-activate-cells-with-light) | [Amino Labs](https://amino.bio/collections/everything/products/rgb-kit-activate-cells-with-light) |
+| Mini Lab: BioExplorer™  | [Amino Labs](https://amino.bio/collections/everything/products/bioproduction-lab?variant=40528228676) | [Amino Labs](https://amino.bio/collections/everything/products/bioproduction-lab?variant=40528228676) |
+_____________________
+
 
 
 
