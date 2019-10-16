@@ -26,6 +26,33 @@ _____________________
 | Translucent Amber Filter 72mm x 72mm | [Plastic People](https://www.theplasticpeople.co.uk/coloured-acrylic-perspex/) | [Acrylite](https://www.mcmaster.com/85635k461) |
 | Translucent Blue Filter 72mm x 72mm | [Plastic People](https://www.theplasticpeople.co.uk/coloured-acrylic-perspex/) | [Acrylite](https://www.mcmaster.com/85635k461) |
 _____________________
+  
+| Cover / Box | Supplier EU  | Supplier US  |
+|-------------------|--------------|--------------|
+| Cardboard |[Amazon](http://tiny.cc/vwdmez) | [Name](http://tiny.cc/xzdmez) |
+| Double sided tape| [Amazon](http://tiny.cc/fqdmez) | [Amazon](http://tiny.cc/jtdmez) |
+| Superglue | [Amazon](http://tiny.cc/9odmez) | [Amazon](http://tiny.cc/nndmez)|
+_____________________
+  
+| Equipment | Supplier EU  | Supplier US  |
+|-------------------|--------------|--------------|
+| Lasercutter or | local makerlab | local makerlab |
+| Cutter | [Amazon](https://www.amazon.co.uk/Silverline-789397-Zinc-Alloy-Snap-Off-Utility/dp/B003TNYHHW/ref=sr_1_5?keywords=cutter&qid=1571219430&sr=8-5) | [Amazon](http://tiny.cc/6gdmez) |
+| Mobile phone | Android or | iOS |
+_____________________
+  
+| Software | Supplier EU  | Supplier US  |
+|-------------------|--------------|--------------|
+| Arduino |[Windows](https://www.arduino.cc/en/guide/windows) | [OS X](https://www.arduino.cc/en/guide/macOSX) |
+| Bluefruit LE Connect | [Android](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect&hl=en_GB) | [iOS](https://apps.apple.com/gb/app/adafruit-bluefruit-le-connect/id830125974) |
+_____________________
+  
+| Biological Parts | Supplier EU  | Supplier US  |
+|-------------------|--------------|--------------|
+| Fluorescent Protein Kit (RGB) |[Amino Labs](https://amino.bio/collections/everything/products/rgb-kit-activate-cells-with-light) | [Amino Labs](https://amino.bio/collections/everything/products/rgb-kit-activate-cells-with-light) |
+| Mini Lab: BioExplorer™  | [Amino Labs](https://amino.bio/collections/everything/products/bioproduction-lab?variant=40528228676) | [Amino Labs](https://amino.bio/collections/everything/products/bioproduction-lab?variant=40528228676) |
+_____________________
+  
 
 ##### Overview
 A fluorescent protein is a type of fluorescent chemical compound (fluorophore) that can re-emit light upon light excitation. If one colour of light lands on a fluorescent protein, the protein will glow with a different colour.
