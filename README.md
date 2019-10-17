@@ -4,13 +4,15 @@ This document will show you how to visualize fluorescent proteins with a simple 
 
 [More info](https://www.bixels.io/tutorials)
 
-#### 1)[Electronic parts](https://github.com/heleneopencell/bixels#1electronic-parts-1)
-#### 2)[Cardboard box](https://github.com/heleneopencell/bixels#2cardboard-box-1)
-#### 3)[Assembly](https://github.com/heleneopencell/bixels#3assembly-1)
-#### 4)[Software](https://github.com/heleneopencell/bixels#4software-1)
-#### 5)[Timelapse with webcam](https://github.com/heleneopencell/bixels#5timelapse-with-webcam-1)
-#### 6)[GFP - Green fluorescent proteins](https://github.com/heleneopencell/bixels#6gfp---green-fluorescent-proteins-1)
-#### 7)[Material list](https://github.com/heleneopencell/bixels#overview-materials)
+### 1)[Electronic parts](https://github.com/heleneopencell/bixels#1electronic-parts-1)
+### 2)[Cardboard box](https://github.com/heleneopencell/bixels#2cardboard-box-1)
+### 3)[Assembly](https://github.com/heleneopencell/bixels#3assembly-1)
+### 4)[Software](https://github.com/heleneopencell/bixels#4software-1)
+### 5)[GFP - Green fluorescent proteins](https://github.com/heleneopencell/bixels#6gfp---green-fluorescent-proteins-1)
+### 6)[Run an experiment]()
+### 7)[Timelapse with webcam](https://github.com/heleneopencell/bixels#5timelapse-with-webcam-1)
+### 8)[Design Ideas]()
+### 9)[Material list](https://github.com/heleneopencell/bixels#overview-materials)
   
   ![final project](/picturesreadme/image21.jpg)
 
@@ -20,11 +22,12 @@ A fluorescent protein is a type of fluorescent chemical compound (fluorophore) t
 
 The story of the extraction, isolation and study of **green fluorescent protein (GFP)** is fascinating. It is also a hugely significant scientific discovery for which the 2008 Nobel Prize in Chemistry was awarded.
 
-In this tutorial we will build a cardboard box to block out any unwanted light and use a set of optical filters. The filters allow the correct light to reach the fluorescent proteins from the LEDs and for the correct light to reach your eye from the fluorescent proteins. The diffuser simply diffuses the light evenly which is not necessary but useful if you want to use Bixels for something else than PCR tubes, for example electrophoresis gels. 
+In this tutorial we will show you how to visualize fluorescent proteinswe. We will build a cardboard box to block out any unwanted light and use a set of optical filters. The filters allow the correct light to reach the fluorescent proteins from the LEDs and for the correct light to reach your eye from the fluorescent proteins. The diffuser simply diffuses the light evenly which is not necessary but useful if you want to use Bixels for something else than PCR tubes, for example electrophoresis gels. 
 
-The RGB LED matrix we are using is capable of generating the required light to stimulate fluorescence in many types of fluorescent proteins. The filters described in this tutorial are only suitable for GFP but you can exchange them. [You can learn more here](https://www.biotek.com/assets/tech_resources/Filter%20Combinations.pdf) which filters to use for which fluorescent protein.
+The RGB LED matrix we are using is capable of generating the required light to stimulate fluorescence in many types of fluorescent proteins.  
+The filters described in this tutorial are only suitable for GFP but you can exchange them.[You can learn more here](https://www.biotek.com/assets/tech_resources/Filter%20Combinations.pdf) which filters to use for which fluorescent protein.  
 
-The software and app allow you to control each single led and it's individual light color from your phone. 
+The software and app we will use will allow you to control each single led and it's individual light color from your phone.  
 
 Proteins can take up to a few hours to get expressed. We therefore added a section how to add a webcam to Bixels which takes every few minutes a picture which will create a timelapse streamed to the web. 
 
@@ -44,7 +47,9 @@ To start with we have to solder the stacking headers on the Adafruit Feather and
 
 ![soldering neopixel](/picturesreadme/image12.jpg)  
 
-To power bixels we will add a micro usb port. Take a two black or brown "female to female" jumper wires and cut one end off. Connect the wire end with each other and solder it on the GND pin on the USB Micro B-Breakout board. Now take two red "female to female" jumper wire wires and cut one end off. Connect the wire end with each other and solder it on the 5V pin on the USB Micro B-Breakout board. We will use one black and one red cable to power the LEDs and one black and one red one to power the board itself.  
+To power bixels we will add a micro usb port. Take two black or brown "female to female" jumper wires and cut one end off. Connect the wire end with each other and solder it on the GND pin on the USB Micro B-Breakout board. Now take two red "female to female" jumper wire wires and cut one end off. Connect the wire end with each other and solder it on the 5V pin on the USB Micro B-Breakout board. We will use one black and one red cable to power the LEDs and one black and one red one to power the board itself.  
+
+Note: You can also make your own wires with femaler headers but I do it the lazy way...
   
 ![soldering microusb](/picturesreadme/image13.jpg)
 
@@ -104,7 +109,7 @@ Now connect one of the **black wires** from the micro usb breakout board to the 
 If you haven’t done it already, download the newest [Arduino IDE version](https://www.arduino.cc/en/main/software). Next we have to set up our Bluefruit Feather Board for Arduino as described [here](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup) and install the board with the Board Manager and install the adafruit driver as described [here](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup).  
 
 ###### Uploading Arduino sketch 
-Before uploading our sketch install you need to install the BLE library as described [here](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/installing-ble-library). 
+Before uploading our sketch you need to install the BLE library as described [here](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/installing-ble-library). 
 Now download the [bixel.zip](/bixel.zip), extract or unpack it and open the file bixel.ino which is inside the folder.
 
 It’s time to upload your code onto your device. Connect the USB from your bixel to your computer and choose the correct port inside your Arduino window. Now click upload and wait till it got successfully uploaded. It should look something like this.
@@ -112,21 +117,25 @@ It’s time to upload your code onto your device. Connect the USB from your bixe
 ![choose port](/picturesreadme/image26.png)  
 ![upload](/picturesreadme/image27.png)  
   
-###### App to control your pixels and to design your Bixels
-Now let’s get started to be able to control the LEDs. First download the Adafruit Bluefruit LE Connect App on your phone. The app is available for [iOS](https://apps.apple.com/gb/app/adafruit-bluefruit-le-connect/id830125974) and [Android](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect&hl=en_GB).
+###### App to control the LED's
+Now let’s get started with controlling the LEDs. First download the Adafruit Bluefruit LE Connect App on your phone. The app is available for [iOS](https://apps.apple.com/gb/app/adafruit-bluefruit-le-connect/id830125974) and [Android](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect&hl=en_GB).
  
 Open the app and connect to your device Adafruit Bluefruit LE.
-Choose the NeoPixel icon in the bottom line and press OK when it gives your a notice.
+Choose the NeoPixel icon in the bottom line and press OK when it gives you a notice.
 Next we have to choose the correct matrix layout. Click the settings button at the top, next to the word ‘NeoPixel’ and choose ‘8x8’.
-Press ‘Connect’ and your LED’s should turn on. Now you are ready to control your pixels. 
+Press ‘Connect’ and your LED’s should turn on. Now you are ready to control your individual LEDs. 
+
+[![assembly](https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da882917086594acd830965_appvideo.jpg)](https://vimeo.com/259016118)  
 
 ![configure app](/picturesreadme/image28.jpg)  
 ![configure app](/picturesreadme/image29.jpg)  
 
-
-### 5)Timelapse with webcam
-### 6)GFP - Green fluorescent proteins
+### 5)GFP - Green fluorescent proteins
+### 6)Timelapse with webcam
 What is a Fluorescent Protein?
+
+### 7)Design Ideas
+
   
 
 ### Overview Materials  
