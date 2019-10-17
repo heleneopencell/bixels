@@ -189,10 +189,10 @@ The design fits great with the bixels project. [Follow the steps here.](http://d
 Now it's time to get creative. We have used bixels for some fun applications so far:
 
 1) As an educational tool to teach biotechnology to non scientists
-[![https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da896fe82e67520d79d7631_video6.jpg)](https://vimeo.com/212755100)  
+[![educational tool](https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da896fe82e67520d79d7631_video6.jpg)](https://vimeo.com/212755100)  
 
 2) Making a gameboy which has a biopixel display  
-
+  
 ![gameboy](/picturesreadme/image19.png)  
 
 
