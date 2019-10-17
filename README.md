@@ -138,7 +138,7 @@ At the cellular level organisms are complex. A key process is the creation of pr
 A selection of DNA is transcribed when a type of protein called RNA polymerase attaches to a circuit element called a promoter (initiator of transcription), this creates a piece of RNA of length determined by the location of a terminator (stops transcription). This piece of RNA contains a ribosome-binding site to which an organelle called a ribosome adheres and begins the process of translation, where amino acid sequences are joined to form proteins. 
 
 A piece of **DNA gives these instructions** through encoding specific operations:
-![DNAprogramme](/picturesreadme/image4.png)  
+![DNAprogramme](/picturesreadme/image4.jpg)  
 
 
 * Promoter -  Facilitates RNA polymerase binding to initiate transcription
@@ -159,21 +159,26 @@ For Bixels we want to produce green fluorescent proteins, these  will glow with 
 Note: Bear in mind that different coloured proteins need to get excited with a different colour of light, which means you also have to adapt your filters. [Here](https://www.biotek.com/assets/tech_resources/11596/table1.jpg) a useful document about the different excitation wavelenghts for different proteins.
 But first let's find out how to even make proteins. We will outline two ways here:
 
-1) By bacteria transformation
+1) **By bacteria transformation**
 This involves inserting a plasma into a chassi, for example E.Coli (bacteria) which will express proteins based on the plasmid incerted.
 If you are new to genetic engineering we highly recommend you to get the [Zero to genetic engineering hero book](https://amino.bio/products/learn-genetic-engineering-the-genetic-engineering-hero-book) from Amino Labs. It will make teach you every step needed to make your own transformations. With the book you can get kits that will provide you with all materials needed to make your own fluorescent proteins. I recommend the [RGB kit](https://amino.bio/collections/everything/products/rgb-kit-activate-cells-with-light)!
 
-2) By using Cell-Free systems
+2) **By using Cell-Free systems**
 Which allows you to use and work with outside of the research lab. This involves removing the transcription and translation machinery from a cell. It allows you to make proteins without having to grow or work with live cells. Since Cell-Free expression liberates you from the requirements of a bio-lab you can begin to experiment to make your projects more tangible. You can get your cell-free kit to make your own fluorescent proteins at [minipcr.com](https://www.minipcr.com/product/biobits-central-dogma/).
 
 ### 6)[Run an experiment]()
 Let's make your proteins shine. 
 
-It is quite neat that the colors of the app are similar to different protein you can express. In our case we will excite a green fluorescent protein with blue light.
+I love that the colors of the app are similar to different protein you can express. In our case we will excite a green fluorescent protein with blue light.
 So let's turn your bixel into a transilluminator. The kit includes 3 filters. An amber filter, blue filter and and a diffuser.
 We already mounted our amber filter into our filter box. To turn the main box into a transilluminator, layer the blue filter and diffuser on top of the LED matrix and place your PCR matrix (with GFP in 1 or more tubes) on top. Slide the filter box on top of the main box and turn the LEDs to blue. You can either excite single tubes or excite all in once.  
 
-If you look now through the orange filter you will only see your fluorescent proteins glow! I love to use either my phone to capture it or for timelapses a simple web-cam. Below a protocol ‘How to build a timelapse with a web-cam’.
+[![assembly](https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da8938bfdbcf63be43f4198_video8.jpg)](https://vimeo.com/236662582)  
+
+If you look now through the orange filter you will only see your fluorescent proteins glow! I love to use either my phone to capture it or for timelapses a simple web-cam. Below a protocol ‘How to build a timelapse with a web-cam’.  
+
+![transilluminator](/picturesreadme/image30.png)  
+
 
 ### 7)Timelapse with webcam
 
