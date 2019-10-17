@@ -1,16 +1,16 @@
 # bixels
  
-This document will show you how to visualize fluorescent proteins. They are widely used in biology as a research aid. In standard bio-labs you would use a transilluminator or platereader to visualize them which are wildly expensive. We will make a simple and very low-cost version of this which can be also used as a 8x8 biodisplay or as a STEAM education kit to get kids excited about biotechnology.  
+This document will show you how to visualize fluorescent proteins with a simple DIT transilluminator / plate reader. Fluorescent proteins are widely used in biology as a research aid. In standard bio-labs you would use a transilluminator or platereader to visualize them which are wildly expensive. We will make a simple and very low-cost version of this which can be also used as a 8x8 biodisplay or as a STEAM education kit to get kids excited about biotechnology.  
 
 [More info](https://www.bixels.io/tutorials)
 
-### 1)[Electronic parts](https://github.com/heleneopencell/bixels#1electronic-parts-1)
-### 2)[Cardboard box](https://github.com/heleneopencell/bixels#2cardboard-box-1)
-### 3)[Assembly](https://github.com/heleneopencell/bixels#3assembly-1)
-### 4)[Software](https://github.com/heleneopencell/bixels#4software-1)
-### 5)[Timelapse with webcam](https://github.com/heleneopencell/bixels#5timelapse-with-webcam-1)
-### 6)[GFP - Green fluorescent proteins](https://github.com/heleneopencell/bixels#6gfp---green-fluorescent-proteins-1)
-### 7)[Material list](https://github.com/heleneopencell/bixels#overview-materials)
+#### 1)[Electronic parts](https://github.com/heleneopencell/bixels#1electronic-parts-1)
+#### 2)[Cardboard box](https://github.com/heleneopencell/bixels#2cardboard-box-1)
+#### 3)[Assembly](https://github.com/heleneopencell/bixels#3assembly-1)
+#### 4)[Software](https://github.com/heleneopencell/bixels#4software-1)
+#### 5)[Timelapse with webcam](https://github.com/heleneopencell/bixels#5timelapse-with-webcam-1)
+#### 6)[GFP - Green fluorescent proteins](https://github.com/heleneopencell/bixels#6gfp---green-fluorescent-proteins-1)
+#### 7)[Material list](https://github.com/heleneopencell/bixels#overview-materials)
   
   ![final project](/picturesreadme/image21.jpg)
 
