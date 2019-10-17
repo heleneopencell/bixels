@@ -133,12 +133,12 @@ We need a fluorescent protein to be able to test if our transilluminator is work
 In most cases we talk and share how to programme with 0's and 1's on this platform but here we would like to share how to programme with DNA, with C G T and A's.  
 At the cellular level organisms are complex. A key process is the creation of proteins based on the specific instructions contained in the base pairings of deoxyribonucleic acid (DNA). Base-pairs are composed of either cytosine (C) and guanine (G) or tyrosine (T) and adenine (A). These base pair instructions can be long, the genome of a human is ~ 3 billion base pairs (3gbp), the genome of wheat is even longer at 10 gbp. The length of DNA which encodes green fluorescent protein (a single protein, and the topic of this tutorial) is about 700 bp.  
 
-![DNAprogramme](/picturesreadme/image3.png)  
+![DNAprogramme](/picturesreadme/image3.jpg)  
 
 A selection of DNA is transcribed when a type of protein called RNA polymerase attaches to a circuit element called a promoter (initiator of transcription), this creates a piece of RNA of length determined by the location of a terminator (stops transcription). This piece of RNA contains a ribosome-binding site to which an organelle called a ribosome adheres and begins the process of translation, where amino acid sequences are joined to form proteins. 
 
 A piece of **DNA gives these instructions** through encoding specific operations:
-![DNAprogramme](/picturesreadme/image4.jpg)  
+![DNAprogramme](/picturesreadme/image4.png)  
 
 
 * Promoter -  Facilitates RNA polymerase binding to initiate transcription
