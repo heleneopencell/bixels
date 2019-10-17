@@ -181,11 +181,28 @@ If you look now through the orange filter you will only see your fluorescent pro
 
 
 ### 7)Timelapse with webcam
+I like to use electronics and programming not only to be creative, it allows me to be lazy.
+My colleague Tom wrote a tutorial how to make a cheap timelapse and webstream with a Raspberry Pi and a webcam.
+The design fits great with the bixels project. [Follow the steps here.](http://designbio.co.uk/blog/raspi-timelapse)
 
 ### 8)Design Ideas
-Educational tool
-Gameboy
-Biodisplay
+Now it's time to get creative. We have used bixels for some fun applications so far:
+
+1) As an educational tool to teach biotechnology to non scientists
+[![https://uploads-ssl.webflow.com/5beda5244920652be0723efa/5da896fe82e67520d79d7631_video6.jpg)](https://vimeo.com/212755100)  
+
+2) Making a gameboy which has a biopixel display
+![gameboy](/picturesreadme/image19.png)  
+
+3) Playing tetris with fluorescent proteins
+![gameboy](/picturesreadme/image25.gif)  
+
+4) Test your biology experiment
+![lab](/picturesreadme/image23.jpg)  
+
+
+
+If you have any ideas you want to share please drop me a line at helene.steiner@rca.ac.uk
   
 
 ### Overview Materials  
