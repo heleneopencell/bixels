@@ -1,6 +1,6 @@
 # bixels
  
-This document will show you how to visualize fluorescent proteins with a simple DIT transilluminator / plate reader. Fluorescent proteins are widely used in biology as a research aid. In standard bio-labs you would use a transilluminator or platereader to visualize them which are wildly expensive. We will make a simple and very low-cost version of this which can be also used as a 8x8 biodisplay or as a STEAM education kit to get kids excited about biotechnology.  
+This document will show you how to visualize fluorescent proteins with a simple DIY transilluminator / plate reader. Fluorescent proteins are widely used in biology as a research aid. In standard bio-labs you would use a transilluminator or platereader to visualize them which are wildly expensive. We will make a simple and very low-cost version of this which can be also used as a 8x8 biodisplay or as a STEAM education kit to get kids excited about biotechnology.  
 
 [More info](https://www.bixels.io/tutorials)
 
