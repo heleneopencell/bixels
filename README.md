@@ -255,6 +255,8 @@ _____________________
 |-------------------|--------------|--------------|
 | Fluorescent Protein Kit (RGB) |[Amino Labs](https://amino.bio/collections/everything/products/rgb-kit-activate-cells-with-light) | [Amino Labs](https://amino.bio/collections/everything/products/rgb-kit-activate-cells-with-light) |
 | Mini Lab: BioExplorer™  | [Amino Labs](https://amino.bio/collections/everything/products/bioproduction-lab?variant=40528228676) | [Amino Labs](https://amino.bio/collections/everything/products/bioproduction-lab?variant=40528228676) |
+| Cell-Free  | [Mini PCR](https://www.minipcr.com/product/biobits-central-dogma/) | [Mini PCR](https://www.minipcr.com/product/biobits-central-dogma/)|
+_____________________
 _____________________
 
 
