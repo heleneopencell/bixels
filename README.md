@@ -106,7 +106,7 @@ Now connect one of the **black wires** from the micro usb breakout board to the 
 ### 4)Software  
 
 ###### Arduino set-up for Adafruit Feather 32u4 
-If you haven’t done it already, download the newest [Arduino IDE version](https://www.arduino.cc/en/main/software). Next we have to set up our Bluefruit Feather Board for Arduino as described [here](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup) and install the board with the Board Manager and install the adafruit driver as described [here](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup).  
+If you haven’t done it already, download the newest [Arduino IDE version](https://www.arduino.cc/en/main/software). Next we have to set up our Bluefruit Feather Board for Arduino as described [here](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup) and install the board with the Board Manager and install the adafruit driver as described [here](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/using-with-arduino-ide).  
 
 ###### Uploading Arduino sketch 
 Before uploading our sketch you need to install the BLE library as described [here](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/installing-ble-library). 
